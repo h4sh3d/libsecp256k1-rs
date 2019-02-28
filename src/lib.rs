@@ -12,7 +12,7 @@ extern crate hmac_drbg;
 extern crate typenum;
 extern crate digest;
 extern crate sha2;
-extern crate rand;
+pub extern crate rand;
 #[macro_use]
 extern crate arrayref;
 
